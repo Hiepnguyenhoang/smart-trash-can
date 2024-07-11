@@ -16,7 +16,7 @@ Ghép nối linh kiện
    GND = GND            # Arduino
    servo_pin = 11       # Arduino
   
-Muốn chạy chương trình, tải hết các file về máy và chạy trên Arduino IDE
+Muốn chạy chương trình, tải file về máy và chạy trên Arduino IDE
 
 Liên hệ với mình nếu gặp vấn đề:
 facebook: https://www.facebook.com/profile.php?id=100009669068016
