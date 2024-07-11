@@ -7,10 +7,11 @@ Phần cứng yêu cầu:
 
 Ghép nối linh kiện
 - Kết nối cảm biến siêu âm Ultrasonic HC-SR04 với Arduino 
-   VCC = 5V  # Arduino
-   Trig = 13 # Arduino
-   Echo = 12 # Arduino
-   GND = GND # Arduino
+
+|VCC = 5V|# Arduino|
+|Trig = 13|# Arduino|
+|Echo = 12|# Arduino|
+|GND = GND|# Arduino|
 - Kết nối động cơ servo SG90 và arduino
    VCC = 3.3V (hoặc 5V) # Arduino
    GND = GND            # Arduino
