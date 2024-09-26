@@ -2,10 +2,10 @@
 
 Chương trình thùng rác thông minh được xây dựng bởi Nguyễn Hoàng Hiệp - 20213703. Có chức năng tự động mở nắp thùng rác bằng động cơ servo khi có người đến gần.
 
-## Phần cứng yêu cầu:
-- Arduino Uno R3
-- Cảm biến siêu âm Ultrasonic HC-SR04
-- Động cơ servo Servo SG90
+## Hardware requirements
+1 Arduino Uno R3
+2 Ultrasonic HC-SR04
+3 Servo SG90
 
 ## Ghép nối linh kiện
 ### Kết nối cảm biến siêu âm Ultrasonic HC-SR04 với Arduino
