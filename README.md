@@ -1,28 +1,28 @@
-# Chương trình thùng rác thông minh
+# Smart Trash Bin Program
 
-Chương trình thùng rác thông minh được xây dựng bởi Nguyễn Hoàng Hiệp - 20213703. Có chức năng tự động mở nắp thùng rác bằng động cơ servo khi có người đến gần.
+The Smart Trash Bin program was developed by Nguyen Hoang Hiep - 20213703. Its function is to automatically open the trash bin lid using a servo motor when someone approaches.
 
 ## Hardware requirements
-1 Arduino Uno R3
-2 Ultrasonic HC-SR04
-3 Servo SG90
+- Arduino Uno R3
+- Ultrasonic HC-SR04
+- Servo SG90
 
-## Ghép nối linh kiện
-### Kết nối cảm biến siêu âm Ultrasonic HC-SR04 với Arduino
+## Wiring Components
+### Connecting HC-SR04 to Arduino
 - VCC = 5V  # Arduino
 - Trig = 13 # Arduino
 - Echo = 12 # Arduino
 - GND = GND # Arduino
 
-### Kết nối động cơ servo SG90 và arduino
+### Connecting servo SG90 to Arduino
 - VCC = 3.3V (hoặc 5V) # Arduino
 - GND = GND            # Arduino
 - servo_pin = 11       # Arduino
 
-## Hướng dẫn
-Muốn chạy chương trình, tải file về máy và chạy trên Arduino IDE.
+## How to run
+To run the program, download the file and upload it to the Arduino board using the Arduino IDE.
 
-## Liên hệ
-Liên hệ với mình nếu gặp vấn đề:
+## Contact
+
 - Facebook: [Nguyễn Hoàng Hiệp](https://www.facebook.com/profile.php?id=100009669068016)
 - Gmail: kzhiep@gmail.com
